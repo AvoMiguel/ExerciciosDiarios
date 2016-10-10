@@ -62,6 +62,6 @@ public class Treino {
 				count++;
 			}
 		} while (acertou);
-	}
+	} 
 
 }
